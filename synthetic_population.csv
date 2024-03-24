@@ -1,0 +1,19 @@
+Sex,Age_category,Highest_education_level,Frequency_x,Frequency_y,Frequency
+,,0,,,32.0
+,,1,,,26.0
+,,2,,,98.0
+,,3,,,44.0
+,,Graduation_and_above,,,12380.0
+,,No_formal_education,,,7446.0
+,,Primary_education,,,5649.0
+,,Secondary_education,,,24525.0
+,1,,,71.0,
+,2,,,118.0,
+,3,,,11.0,
+,22-60 years,,,29624.0,
+,Above 60 years,,,2381.0,
+,Below 22 years,,,17995.0,
+1,,,103.0,,
+2,,,97.0,,
+Female,,,24752.0,,
+Male,,,25248.0,,

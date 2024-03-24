@@ -1,0 +1,27 @@
+Frequencies for Sex:
+   Sex  Frequency
+     1          1
+     2          1
+Female          1
+  Male          1
+
+Frequencies for Age_category:
+  Age_category  Frequency
+             1          1
+             2          1
+             3          1
+   22-60 years          1
+Above 60 years          1
+Below 22 years          1
+
+Frequencies for Highest_education_level:
+Highest_education_level  Frequency
+                      0          1
+                      1          1
+                      2          1
+                      3          1
+   Graduation_and_above          1
+    No_formal_education          1
+      Primary_education          1
+    Secondary_education          1
+
